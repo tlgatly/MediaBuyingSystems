@@ -116,7 +116,7 @@ namespace AssemblyRover.Operation
                 return false;
             c.IsVisited = true;
             if (c.HasComponent && c.Components.Contains(currentComponent)) {
-                output.Add(currentPath);
+                output.Add(currentPath + "P");
                 c.Components.Remove(currentComponent);
                 if (c.Components.Count == 0)
                     c.HasComponent = false;
