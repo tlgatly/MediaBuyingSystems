@@ -1,0 +1,12 @@
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\bin\Debug\AssemblyRover.Driver.exe.config
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\bin\Debug\AssemblyRover.Driver.exe
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\bin\Debug\AssemblyRover.Driver.pdb
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\bin\Debug\AssemblyRover.Operation.dll
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\bin\Debug\AssemblyRover.Entity.dll
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\bin\Debug\AssemblyRover.Operation.pdb
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\bin\Debug\AssemblyRover.Entity.pdb
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\obj\Debug\AssemblyRover.Driver.csprojAssemblyReference.cache
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\obj\Debug\AssemblyRover.Driver.csproj.CoreCompileInputs.cache
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\obj\Debug\AssemblyRover.Driver.csproj.CopyComplete
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\obj\Debug\AssemblyRover.Driver.exe
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Driver\obj\Debug\AssemblyRover.Driver.pdb

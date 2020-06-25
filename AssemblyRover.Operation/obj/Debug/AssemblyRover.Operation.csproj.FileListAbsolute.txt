@@ -1,0 +1,9 @@
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Operation\bin\Debug\AssemblyRover.Operation.dll
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Operation\bin\Debug\AssemblyRover.Operation.pdb
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Operation\bin\Debug\AssemblyRover.Entity.dll
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Operation\bin\Debug\AssemblyRover.Entity.pdb
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Operation\obj\Debug\AssemblyRover.Operation.csprojAssemblyReference.cache
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Operation\obj\Debug\AssemblyRover.Operation.csproj.CoreCompileInputs.cache
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Operation\obj\Debug\AssemblyRover.Operation.csproj.CopyComplete
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Operation\obj\Debug\AssemblyRover.Operation.dll
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Operation\obj\Debug\AssemblyRover.Operation.pdb

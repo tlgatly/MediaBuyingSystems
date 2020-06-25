@@ -1,0 +1,5 @@
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Entity\bin\Debug\AssemblyRover.Entity.dll
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Entity\bin\Debug\AssemblyRover.Entity.pdb
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Entity\obj\Debug\AssemblyRover.Entity.csproj.CoreCompileInputs.cache
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Entity\obj\Debug\AssemblyRover.Entity.dll
+C:\Users\tolata\Desktop\Tolga\Media\AssemblyRover\AssemblyRover.Entity\obj\Debug\AssemblyRover.Entity.pdb
